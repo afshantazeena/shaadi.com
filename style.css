@@ -1,0 +1,814 @@
+body{
+	background-image:url(images/1.jpg);
+	
+	
+}
+a {
+    background-color: transparent;
+	color:white;
+
+
+}
+
+html {
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+    background: #f1f1f2;
+    direction: ltr;
+}
+scaffolding.less:27
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+normalize.less:10
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+bootstrap.css:1062
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+html[Attributes Style] {
+    -webkit-locale: "en";
+}
+user agent stylesheet
+html {
+    display: block;
+}
+Pseudo ::before element
+bootstrap.css:1068
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+Pseudo ::after element
+bootstrap.css:1068
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+html {
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+    background: #f1f1f2;
+    direction: ltr;
+}
+scaffolding.less:27
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+normalize.less:10
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+bootstrap.css:1062
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+html[Attributes Style] {
+    -webkit-locale: "en";
+}
+user agent stylesheet
+html {
+    display: block;
+}
+Pseudo ::before element
+bootstrap.css:1068
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+Pseudo ::after element
+bootstrap.css:1068
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.top_wrap {
+    padding: 19px 0 0;
+    margin: 0 auto;
+    background: 0;
+    box-shadow: none;
+    color: #fff;
+}
+navbar.less:400
+.navbar-default {
+    background-color: #f8f8f8;
+    border-color: #e7e7e7;
+}
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+bootstrap.css:1062
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+Inherited from div.home_banner.nri
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+Inherited from body
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+scaffolding.less:32
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+Inherited from html.gr__shaadi_com
+new-home-page-vs-58.css:2
+html {
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+    background: #f1f1f2;
+    direction: ltr;
+}
+scaffolding.less:27
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+normalize.less:10
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+Pseudo ::before element
+bootstrap.css:1068
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+Pseudo ::after element
+bootstrap.css:1068
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+@media (min-width: 768px)
+bootstrap.css:1804
+.col-sm-2 {
+    width: 16.66666667%;
+}
+@media (min-width: 768px)
+bootstrap.css:1771
+.col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9 {
+    float: left;
+}
+bootstrap.css:1641
+.col-xs-4 {
+    width: 33.33333333%;
+}
+bootstrap.css:1614
+.col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    float: left;
+}
+bootstrap.css:1608
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+bootstrap.css:1062
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+Inherited from div.container.pd_0
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+Inherited from div.top_wrap.navbar-default
+new-home-page-vs-58.css:26
+.top_wrap {
+    padding: 19px 0 0;
+    margin: 0 auto;
+    background: 0;
+    box-shadow: none;
+    color: #fff;
+}
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+Inherited from div.home_banner.nri
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+Inherited from body
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+scaffolding.less:32
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+Inherited from html.gr__shaadi_com
+new-home-page-vs-58.css:2
+html {
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+    background: #f1f1f2;
+    direction: ltr;
+}
+scaffolding.less:27
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+normalize.less:10
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+Pseudo ::before element
+bootstrap.css:1068
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+Pseudo ::after element
+bootstrap.css:1068
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+member_login_wrap {
+    margin: 10px 0 0;
+}
+new-home-page-vs-58.css:5
+.pd_0 {
+    padding: 0;
+}
+@media (min-width: 992px)
+bootstrap.css:1956
+.col-md-4 {
+    width: 33.33333333%;
+}
+@media (min-width: 992px)
+bootstrap.css:1929
+.col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9 {
+    float: left;
+}
+@media (min-width: 768px)
+bootstrap.css:1795
+.col-sm-5 {
+    width: 41.66666667%;
+}
+@media (min-width: 768px)
+bootstrap.css:1771
+.col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9 {
+    float: left;
+}
+bootstrap.css:1635
+.col-xs-6 {
+    width: 50%;
+}
+bootstrap.css:1614
+.col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    float: left;
+}
+bootstrap.css:1608
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+bootstrap.css:1310
+.text-right {
+    text-align: right;
+}
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+bootstrap.css:1062
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+Inherited from div.row.margin_0
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+Inherited from div.col-sm-4.col-md-3.col-sm-offset-6.col-md-offset-7
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+Inherited from div.container.pd_0
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+Inherited from div.top_wrap.navbar-default
+new-home-page-vs-58.css:26
+.top_wrap {
+    padding: 19px 0 0;
+    margin: 0 auto;
+    background: 0;
+    box-shadow: none;
+    color: #fff;
+}
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+Inherited from div.home_banner.nri
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+Inherited from body
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+scaffolding.less:32
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+Inherited from html.gr__shaadi_com
+new-home-page-vs-58.css:2
+html {
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+    background: #f1f1f2;
+    direction: ltr;
+}
+scaffolding.less:27
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+normalize.less:10
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+Pseudo ::before element
+bootstrap.css:1068
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+Pseudo ::after element
+bootstrap.css:1068
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.margin_t10 {
+    margin: 10px 0 0;
+}
+new-home-page-vs-58.css:5
+.pd_0 {
+    padding: 0;
+}
+@media (min-width: 992px)
+bootstrap.css:1944
+.col-md-8 {
+    width: 66.66666667%;
+}
+@media (min-width: 992px)
+bootstrap.css:1929
+.col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9 {
+    float: left;
+}
+@media (min-width: 768px)
+bootstrap.css:1789
+.col-sm-7 {
+    width: 58.33333333%;
+}
+@media (min-width: 768px)
+bootstrap.css:1771
+.col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9 {
+    float: left;
+}
+bootstrap.css:1635
+.col-xs-6 {
+    width: 50%;
+}
+bootstrap.css:1614
+.col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    float: left;
+}
+bootstrap.css:1608
+.col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+bootstrap.css:1062
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+Inherited from div.row.margin_0
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+Inherited from div.col-sm-4.col-md-3.col-sm-offset-6.col-md-offset-7
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+Inherited from div.container.pd_0
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+Inherited from div.top_wrap.navbar-default
+new-home-page-vs-58.css:26
+.top_wrap {
+    padding: 19px 0 0;
+    margin: 0 auto;
+    background: 0;
+    box-shadow: none;
+    color: #fff;
+}
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+Inherited from div.home_banner.nri
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+Inherited from body
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+scaffolding.less:32
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+Inherited from html.gr__shaadi_com
+new-home-page-vs-58.css:2
+html {
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+    background: #f1f1f2;
+    direction: ltr;
+}
+scaffolding.less:27
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+normalize.less:10
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+Pseudo ::before element
+bootstrap.css:1068
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+Pseudo ::after element
+bootstrap.css:1068
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.margin_0 {
+    margin: 0;
+}
+new-home-page-vs-58.css:5
+.pd_0 {
+    padding: 0;
+}
+grid-framework.less:18
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+bootstrap.css:1062
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+Inherited from div.home_banner.nri
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+Inherited from body
+new-home-page-vs-58.css:1
+body, div, ul, ol, li, h1, h2, h4, h5, h6, form, input, button, textarea, select, p, td, map {
+    margin: 0;
+    padding: 0;
+    line-height: auto;
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+}
+scaffolding.less:32
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+Inherited from html.gr__shaadi_com
+new-home-page-vs-58.css:2
+html {
+    font-size: 16px;
+    font-weight: normal;
+    font-family: 'Roboto',sans-serif!important;
+    color: #72727d;
+    background: #f1f1f2;
+    direction: ltr;
+}
+scaffolding.less:27
+html {
+    font-size: 10px;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+normalize.less:10
+html {
+    font-family: sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+}
+Pseudo ::before element
+bootstrap.css:6496
+.btn-group-vertical>.btn-group:after, .btn-group-vertical>.btn-group:before, .btn-toolbar:after, .btn-toolbar:before, .clearfix:after, .clearfix:before, .container-fluid:after, .container-fluid:before, .container:after, .container:before, .dl-horizontal dd:after, .dl-horizontal dd:before, .form-horizontal .form-group:after, .form-horizontal .form-group:before, .modal-footer:after, .modal-footer:before, .modal-header:after, .modal-header:before, .nav:after, .nav:before, .navbar-collapse:after, .navbar-collapse:before, .navbar-header:after, .navbar-header:before, .navbar:after, .navbar:before, .pager:after, .pager:before, .panel-body:after, .panel-body:before, .row:after, .row:before {
+    display: table;
+    content: " ";
+}
+bootstrap.css:1068
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+Pseudo ::after element
+utilities.less:15
+.btn-group-vertical>.btn-group:after, .btn-toolbar:after, .clearfix:after, .container-fluid:after, .container:after, .dl-horizontal dd:after, .form-horizontal .form-group:after, .modal-footer:after, .modal-header:after, .nav:after, .navbar-collapse:after, .navbar-header:after, .navbar:after, .pager:after, .panel-body:after, .row:after {
+    clear: both;
+}
+bootstrap.css:6496
+.btn-group-vertical>.btn-group:after, .btn-group-vertical>.btn-group:before, .btn-toolbar:after, .btn-toolbar:before, .clearfix:after, .clearfix:before, .container-fluid:after, .container-fluid:before, .container:after, .container:before, .dl-horizontal dd:after, .dl-horizontal dd:before, .form-horizontal .form-group:after, .form-horizontal .form-group:before, .modal-footer:after, .modal-footer:before, .modal-header:after, .modal-header:before, .nav:after, .nav:before, .navbar-collapse:after, .navbar-collapse:before, .navbar-header:after, .navbar-header:before, .navbar:after, .navbar:before, .pager:after, .pager:before, .panel-body:after, .panel-body:before, .row:after, .row:before {
+    display: table;
+    content: " ";
+}
+bootstrap.css:1068
+:after, :before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
